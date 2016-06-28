@@ -2,38 +2,121 @@
 ModList
 ===========
 
-
+- `AbyssalCraft <http://minecraft.curseforge.com/projects/abyssalcraft>`_, Shinoow
+- `AgriCraft <http://minecraft.curseforge.com/projects/agricraft>`_, InfinityRaider
+- `AnimationAPI <http://minecraft.curseforge.com/projects/animationapi>`_, thehippomaster21
+- `AppleCore <http://minecraft.curseforge.com/projects/applecore>`_, squeek502
+- `Arcane Engineering <http://minecraft.curseforge.com/projects/arcane-engineering>`_, thatguy3039
+- `Aroma1997s Dimensional World <http://minecraft.curseforge.com/projects/aroma1997s-dimensional-world>`_, Aroma1997
+- `Ars Magica 2 <http://minecraft.curseforge.com/projects/ars-magica-2>`_, Torarion
+- `BabyMobs <http://minecraft.curseforge.com/projects/baby-mobs>`_, Furgl
+- `Better Dungeons <http://minecraft.curseforge.com/projects/better-dungeons>`_, Chocolatin
+- `Better Achivements <http://minecraft.curseforge.com/projects/betterachievements>`_, Way2muchnoise
+- `BiblioCraft <http://minecraft.curseforge.com/projects/bibliocraft>`_, Nuchaz
+- `Blood Magic <https://github.com/WayofTime/BloodMagic>`_, WayofTime
+- `Blood Arsenal <http://minecraft.curseforge.com/projects/blood-magic-addon-blood-arsenal>`_, Arcaratus
+- `Sanguimancy <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2194354-blood-magic-addon-sanguimancy>`_, Tombenpotter
 - `Botania <http://botaniamod.net/license.php>`_, vazkii
-//- `Avaritia <http://www.curse.com/mc-mods/minecraft/233785-avaritia>`_, TTFTCUTS
-- `Thaumcraft NEI Plugin <http://www.curse.com/mc-mods/minecraft/225095-thaumcraft-nei-plugin>`_, DjGiannuzz
-- `Chicken Chunks <http://www.curse.com/mc-mods/minecraft/229316-chickenchunks#t1:description>`_, chicken_bones
-- `Mouse Tweaks <http://minecraft.curseforge.com/mc-mods/60089-mouse-tweaks>`_, YaLTeR
-- `AgriCraft <https://github.com/InfinityRaider/AgriCraft>`_, InfinityRaider
-//- `MineTweaker <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290366-1-6-4-1-7-x-minetweaker-3-customize-your>`_, StanH
-//- `ModTweaker <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2093121-1-7-x-modtweaker-0-5d-minetweaker-addon>`_, joshie
+- `BuildCraft <http://minecraft.curseforge.com/projects/buildcraft>`_, Covertjaguar
+- `Buildcraft compat <http://minecraft.curseforge.com/projects/buildcraft-compat>`_, buildcraftchildsplay
+- `Carpenter's Blocks <http://www.carpentersblocks.com/>`_, Mineshopper
+- `Chest Transporter <http://minecraft.curseforge.com/projects/chest-transporter>`_, CubeX2
+- `Chicken Chunks <http://minecraft.curseforge.com/projects/chickenchunks>`_, chicken_bones
+- `Chisel <http://minecraft.curseforge.com/projects/chisel>`_, Chisel-Team
+- `Chisel Facades <http://minecraft.curseforge.com/projects/chisel-facades>`_, Choonster
+- `ComputerCraft <http://minecraft.curseforge.com/projects/computercraft>`_, dan200
+- `Cooking for Blockheads <http://minecraft.curseforge.com/projects/cooking-for-blockheads>`_, Blay09
+- `DekoCraft2 <http://minecraft.curseforge.com/projects/decocraft2>`_, RazzleberryFox
+- `Doomlike Dungeon <http://minecraft.curseforge.com/projects/project-74246>`_, BlackJar72
+- `Durability Show <http://minecraft.curseforge.com/projects/durability-show>`_, 61352151511
+- `Elemental Creepers <http://minecraft.curseforge.com/projects/elemental-creepers>`_, Lomeli12
+- `Ender Storage <http://minecraft.curseforge.com/projects/ender-storage>`_, chicken_bones
+- `Ender Zoo <http://minecraft.curseforge.com/projects/ender-zoo>`_, CrazyPants_MC, tterrag1098
+- `EvilCraft <http://minecraft.curseforge.com/projects/evilcraft>`_, kroeser
+- `Extra Golems <http://minecraft.curseforge.com/projects/extra-golems>`_, sky01
+- `Extra Utilities <http://minecraft.curseforge.com/projects/extra-utilities>`_, RWTema
+- `Funky Locomotion <http://minecraft.curseforge.com/projects/funky-locomotion>`_, RWTema
+- `Forestry <http://minecraft.curseforge.com/projects/forestry>`_, SirSengir, CovertJaguar, mezz, MysteriousAges
+- `Gendustry <http://minecraft.curseforge.com/projects/gendustry>`_, bdew
+- `Grappling Hook <http://minecraft.curseforge.com/projects/grappling-hook-mod>`_, Yyon
+- `Gravestone <http://minecraft.curseforge.com/projects/gravestone_mod>`_, NightKosh
+- `Hardcore Ender Expansion <http://minecraft.curseforge.com/projects/hardcore-ender-expansion>`_, chylex
+- `Hardcore Wither <http://minecraft.curseforge.com/projects/hardcore-wither>`_, thor12022
+- `Headcrumbz <http://minecraft.curseforge.com/projects/headcrumbs>`_, ganymedes01
+- `HelpFixer <http://minecraft.curseforge.com/projects/helpfixer>`_, matthewprenger
+- `Immersive Engineering <http://minecraft.curseforge.com/projects/immersive-engineering>`_, BluSunrize
+- `Immersive Integration <http://minecraft.curseforge.com/projects/immersive-integration>`_, UnwrittenFun
+- `InventoryTweaks <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288184-inventory-tweaks-1-59-march-31>`_, Kobata
+- `IronChests <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280827-1-5-and-up-forge-universal-ironchests-5-0>`_, cpw
+- `IronTanks <http://minecraft.curseforge.com/projects/iron-tanks>`_, indemnity83
+- `JourneyMap <http://journeymap.techbrew.net/>`_, techbrew
+- `Just Another Crafting Bench <http://minecraft.curseforge.com/projects/just-another-crafting-bench>`_, VenhalMinecraft
+- `KleeSlabs <http://minecraft.curseforge.com/projects/kleeslabs>`_, Blay09
+- `Magic Bees <http://minecraft.curseforge.com/projects/magic-bees>`_, MysteriousAges
+- `MagicalDecorations <http://minecraft.curseforge.com/projects/magicaldecorations>`_, Jhary
+- `Magneticraft <http://minecraft.curseforge.com/projects/magneticraft>`_, cout970
+- `MalisisDoors <http://minecraft.curseforge.com/projects/malisisdoors>`_, Ordinastie
+- `Morph <http://minecraft.curseforge.com/projects/morph>`_, iChun
+- `Morpheus <http://minecraft.curseforge.com/projects/morpheus>`_, quetzi
+- `Mouse Tweaks <http://minecraft.curseforge.com/projects/mouse-tweaks>`_, YaLTeR97
+- `Mutant Creatures <http://minecraft.curseforge.com/projects/mutant-creatures-mod>`_, thehippomaster21
+- `Mystcraft <http://minecraft.curseforge.com/projects/mystcraft>`_, XCompWiz
+- `Pam's Harvestcraft <http://minecraft.curseforge.com/projects/pams-harvestcraft>`_, MatrexsVigil
+- `Pandora's Box <http://minecraft.curseforge.com/projects/pandoras-box>`_, Ivorforce
+- `Perfect Spawn <http://minecraft.curseforge.com/projects/perfect-spawn>`_, lumien231
+- `Potion Id Helper <http://minecraft.curseforge.com/projects/potion-id-helper>`_, brandon3055
+- `Railcraft <http://minecraft.curseforge.com/projects/railcraft>`_, CovertJaguar
+- `Random Things <http://minecraft.curseforge.com/projects/random-things>`_, lumien231
+- `Roguelike Dungeons <http://minecraft.curseforge.com/projects/roguelike-dungeons>`_, Greymerk
+- `Runic Dungeons <http://minecraft.curseforge.com/projects/runic-dungeons>`_, MrComputerGhost
+- `Spacial AI <http://minecraft.curseforge.com/projects/special-ai>`_, docrobb
+- `Special Mobs <http://minecraft.curseforge.com/projects/special-mobs>`_, docrobb
+- `Steves's Carts 2 <http://minecraft.curseforge.com/projects/steves-carts-2>`_, Vswe
+- `Storage Drawers <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2198533-storage-drawers-v1-6-1-v2-1-9-updated-sep-12-15>`_, jaquadro
+- `Tails <http://minecraft.curseforge.com/projects/tails>`_, KitsuneKihira
+- `The Camping Mod <http://minecraft.curseforge.com/projects/the-camping-mod>`_, rikmuld
+- `The Erebus <http://minecraft.curseforge.com/projects/the-erebus>`_, DylanKaizer
+- `The Spice of Life <http://minecraft.curseforge.com/projects/the-spice-of-life>`_, squeek502
+- `The Twilight Forest <http://minecraft.curseforge.com/projects/the-twilight-forest>`_, Benimatic
+- `Traveler's Gear <http://minecraft.curseforge.com/projects/travellers-gear>`_, BluSunrize
+- `VeinMiner <http://minecraft.curseforge.com/projects/veinminer>`_, Portablejim
+- `Weather2 <http://minecraft.curseforge.com/projects/weather-storms-tornadoes>`_, Corosus
 - `NotEnoughItems <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods>`_, Chickenbones
 - `NEI Addons <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289113-nei-addons-v1-12-2-now-supports-botany-flower>`_, bdew
-- `IronChests <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280827-1-5-and-up-forge-universal-ironchests-5-0>`_, cpw
-- `InventoryTweaks <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288184-inventory-tweaks-1-59-march-31>`_, Kobata
-//- `HQM <http://minecraft.curseforge.com/mc-mods/77027-hardcore-questing-mode>`_, lorddusk
-- `Blood Magic <https://github.com/WayofTime/BloodMagic>`_, WayofTime
-- `Carpenter's Blocks <http://www.carpentersblocks.com/>`_, Mineshopper
-- `WAILA <http://minecraft.curseforge.com/members/ProfMobius/projects>`_, ProfMobius
-- `Ztones <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2221070-ztones-v-2-2-1-decorative-blocks-16x>`_, riciJak
-- `Witchery <https://sites.google.com/site/witcherymod/>`_, Emoniph
+- `NEI Integration <http://minecraft.curseforge.com/projects/nei-integration>`_, tonius111
+- `Thaumcraft NEI Plugin <http://www.curse.com/mc-mods/minecraft/225095-thaumcraft-nei-plugin>`_, DjGiannuzz
 - `Thaumcraft <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292130-thaumcraft-4-2-3-5-updated-2015-2-17>`_, Azanor
+- `Automagy <http://minecraft.curseforge.com/projects/automagy>`_, Tuhljin
 - `Technomancy <http://forum.feed-the-beast.com/threads/0-12-0-1-7-10-technomancy-discussion-thread.47481/>`_, theflogat
-- `Chisel 2 <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2254671-chisel-2-2-5-0>`_, TheCricket26
-- `Ender Storage <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods>`_, chicken_bones
 - `Forbidden Magic <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445828-tc4-addon-forbidden-magic-v0-57>`_, SpitefulFox
+- `Gadomancy <http://minecraft.curseforge.com/projects/gadomancy>`_, makeo
+- `Thaumaturgical Knowledge <http://minecraft.curseforge.com/projects/thaumaturgical-knowledge>`_, Doctor_Benway
+- `Thaumcraft Inventory Scanning <http://minecraft.curseforge.com/projects/thaumcraft-inventory-scanning>`_, Blay09
+- `Thaumcraft Mob Aspects <http://minecraft.curseforge.com/projects/thaumcraft-mob-aspects>`_, Parker8283
+- `Thaumcraft Node Tracker <http://minecraft.curseforge.com/projects/thaumcraft-node-tracker>`_, Dyonovan
+- `ThaumcraftGates <http://minecraft.curseforge.com/projects/thaumcraftgates>`_, ganymedes01
+- `Thaumic Additions <http://minecraft.curseforge.com/projects/thaumic-additions>`_, MrDimakas_Studio
+- `Thaumic Bases <http://minecraft.curseforge.com/projects/thaumic-bases>`_, Modbder
+- `Thaumic Exploration <http://minecraft.curseforge.com/projects/thaumic-exploration>`_, nekosune
+- `Thaumic Horizons <http://minecraft.curseforge.com/projects/thaumic-horizons>`_, TheKentington
+- `Thaumic Tinkerer <http://minecraft.curseforge.com/projects/thaumic-tinkerer>`_, nekosune
+- `Thaumic Infusion <http://minecraft.curseforge.com/projects/thaumic-infusion>`_, Th3DrunkenMafia
+- `Thaumic Warden <http://minecraft.curseforge.com/projects/thaumic-warden>`_, MasterAbdoTGM50
+- `Witching Gadgeds <http://minecraft.curseforge.com/projects/witching-gadgets>`_, BluSunrize
+- `Magic Cookies <http://minecraft.curseforge.com/projects/magic-cookies>`_, Tschallacka
+- `Tainted Magic <http://minecraft.curseforge.com/projects/tainted-magic>`_, yorkeMC
+- `Witchery <https://sites.google.com/site/witcherymod/>`_, Emoniph
 - `Guide-API <http://minecraft.curseforge.com/mc-mods/228832-guide-api>`_, TheNut
-- `JourneyMap <http://journeymap.techbrew.net/>`_, techbrew
-//- `MineTweaker RecipeMaker <http://minecraft.curseforge.com/mc-mods/226294-minetweaker-recipemaker>`_, DoubleDoorDevelopment, Claycorp, dries007
-- `Sanguimancy <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2194354-blood-magic-addon-sanguimancy>`_, Tombenpotter
-- `Storage Drawers <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2198533-storage-drawers-v1-6-1-v2-1-9-updated-sep-12-15>`_, jaquadro
+- `WAILA <http://minecraft.curseforge.com/members/ProfMobius/projects>`_, ProfMobius
 - `Waila Harvestability <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295067-waila-harvestability-how-can-i-harvest-what-im>`_, squeek502
 - `WAILA Plugins <http://www.curse.com/mc-mods/minecraft/226119-waila-plugins>`_, tterrag1098
-- `INpureCore <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2196459-1-7-10-inpure-projects-denoflions-mods>`_, denoflions
 - `CustomMainMenu <http://minecraft.curseforge.com/mc-mods/226406-custom-main-menu>`_, Lumien
+- `Mouse Tweaks <http://minecraft.curseforge.com/mc-mods/60089-mouse-tweaks>`_, YaLTeR
+
 
 WIP
+//- `HQM <http://minecraft.curseforge.com/mc-mods/77027-hardcore-questing-mode>`_, lorddusk
+//- `MineTweaker <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290366-1-6-4-1-7-x-minetweaker-3-customize-your>`_, StanH
+//- `ModTweaker <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2093121-1-7-x-modtweaker-0-5d-minetweaker-addon>`_, joshie
+//- `MineTweaker RecipeMaker <http://minecraft.curseforge.com/mc-mods/226294-minetweaker-recipemaker>`_, DoubleDoorDevelopment, Claycorp, dries007
+//- `Ztones <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2221070-ztones-v-2-2-1-decorative-blocks-16x>`_, riciJak
