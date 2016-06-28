@@ -3,7 +3,7 @@
 LTM is just as the titles says a modpack with tons of magic mods and a little bit of immersive/low tech mods and alot of exploration
 
 
-##Compiling
+## Compiling
 to start with you need to download the .zip file or pull the repos
 
 this should then download once downloaded you can put it anywhere i will use my desktop for this example
