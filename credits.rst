@@ -72,7 +72,6 @@ ModList
 - `Steves's Carts 2 <http://minecraft.curseforge.com/projects/steves-carts-2>`_, Vswe
 - `Storage Drawers <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2198533-storage-drawers-v1-6-1-v2-1-9-updated-sep-12-15>`_, jaquadro
 - `Tails <http://minecraft.curseforge.com/projects/tails>`_, KitsuneKihira
-- `The Camping Mod <http://minecraft.curseforge.com/projects/the-camping-mod>`_, rikmuld
 - `The Erebus <http://minecraft.curseforge.com/projects/the-erebus>`_, DylanKaizer
 - `The Spice of Life <http://minecraft.curseforge.com/projects/the-spice-of-life>`_, squeek502
 - `The Twilight Forest <http://minecraft.curseforge.com/projects/the-twilight-forest>`_, Benimatic
@@ -115,10 +114,11 @@ ModList
 
 if there is a mod missing or i missspelled something please let me know!
 
-WIP
-//- `HQM <http://minecraft.curseforge.com/mc-mods/77027-hardcore-questing-mode>`_, lorddusk
-//- `MineTweaker <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290366-1-6-4-1-7-x-minetweaker-3-customize-your>`_, StanH
-//- `ModTweaker <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2093121-1-7-x-modtweaker-0-5d-minetweaker-addon>`_, joshie
-//- `MineTweaker RecipeMaker <http://minecraft.curseforge.com/mc-mods/226294-minetweaker-recipemaker>`_, DoubleDoorDevelopment, Claycorp, dries007
-//- `Ztones <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2221070-ztones-v-2-2-1-decorative-blocks-16x>`_, riciJak
-//- `CustomMainMenu <http://minecraft.curseforge.com/mc-mods/226406-custom-main-menu>`_, Lumien
+Maybe Later
+- `HQM <http://minecraft.curseforge.com/mc-mods/77027-hardcore-questing-mode>`_, lorddusk
+- `MineTweaker <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290366-1-6-4-1-7-x-minetweaker-3-customize-your>`_, StanH
+- `ModTweaker <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2093121-1-7-x-modtweaker-0-5d-minetweaker-addon>`_, joshie
+- `MineTweaker RecipeMaker <http://minecraft.curseforge.com/mc-mods/226294-minetweaker-recipemaker>`_, DoubleDoorDevelopment, Claycorp, dries007
+- `Ztones <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2221070-ztones-v-2-2-1-decorative-blocks-16x>`_, riciJak
+- `CustomMainMenu <http://minecraft.curseforge.com/mc-mods/226406-custom-main-menu>`_, Lumien
+- `The Camping Mod <http://minecraft.curseforge.com/projects/the-camping-mod>`_, rikmuld
