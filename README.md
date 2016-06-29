@@ -1,7 +1,8 @@
 # Low Tech and Magic
 
-LTM is just as the titles says a modpack with tons of magic mods and a little bit of immersive/low tech mods and alot of exploration
+LTM is just as the a kitchen sink modpack with tons of magic mods and a little bit of immersive/low tech mods and alot of exploration
 
+i will try to integrate HQM but i guess it will more be a guidline through the mods rather than real questing.
 
 ## Compiling
 to start with you need to download the .zip file or pull the repos
