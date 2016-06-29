@@ -22,7 +22,7 @@ Windows syntax:
 
 
 Other possible parameters:
-buildAll, buildServer, buildClient, buildCurse, buildMultiMC
+buildAll, buildServer, buildClient
 	
 and done
 
