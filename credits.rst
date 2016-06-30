@@ -19,7 +19,6 @@ Magic
     - `Thaumcraft Mob Aspects <http://minecraft.curseforge.com/projects/thaumcraft-mob-aspects>`_, Parker8283
     - `Thaumcraft Node Tracker <http://minecraft.curseforge.com/projects/thaumcraft-node-tracker>`_, Dyonovan
     - `ThaumcraftGates <http://minecraft.curseforge.com/projects/thaumcraftgates>`_, ganymedes01
-    - `Thaumic Additions <http://minecraft.curseforge.com/projects/thaumic-additions>`_, MrDimakas_Studio
     - `Thaumic Bases <http://minecraft.curseforge.com/projects/thaumic-bases>`_, Modbder
     - `Thaumic Exploration <http://minecraft.curseforge.com/projects/thaumic-exploration>`_, nekosune
     - `Thaumic Horizons <http://minecraft.curseforge.com/projects/thaumic-horizons>`_, TheKentington
@@ -56,7 +55,6 @@ Exploration
     - `Aroma1997s Dimensional World <http://minecraft.curseforge.com/projects/aroma1997s-dimensional-world>`_, Aroma1997
     - `Better Dungeons <http://minecraft.curseforge.com/projects/better-dungeons>`_, Chocolatin
     - `Better Achivements <http://minecraft.curseforge.com/projects/betterachievements>`_, Way2muchnoise
-    - `Doomlike Dungeon <http://minecraft.curseforge.com/projects/project-74246>`_, BlackJar72
     - `EvilCraft <http://minecraft.curseforge.com/projects/evilcraft>`_, kroeser
     - `Gravestone <http://minecraft.curseforge.com/projects/gravestone_mod>`_, NightKosh
     - `Hardcore Ender Expansion <http://minecraft.curseforge.com/projects/hardcore-ender-expansion>`_, chylex
@@ -140,3 +138,4 @@ Maybe Later
 - `Ztones <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2221070-ztones-v-2-2-1-decorative-blocks-16x>`_, riciJak
 - `CustomMainMenu <http://minecraft.curseforge.com/mc-mods/226406-custom-main-menu>`_, Lumien
 - `The Camping Mod <http://minecraft.curseforge.com/projects/the-camping-mod>`_, rikmuld
+- `Doomlike Dungeon <http://minecraft.curseforge.com/projects/project-74246>`_, BlackJar72
