@@ -37,6 +37,7 @@ task compileServer(type: Copy) {
         include '**/*.xml'
         include '**/*.recipes'
         exclude '**/_CLIENT/**'
+		exclude '**/_TMP/**'
 		exclude '**/saves/**'
 		exclude '**/minetweaker.log/**'
 		exclude '**/BotaniaVars.dat/**'
@@ -72,6 +73,7 @@ task compileClient(type: Copy) {
         include '**/*.xml'
         include '**/*.recipes'
 		exclude '**/_SERVER/**'
+		exclude '**/_TMP/**'
         filter(ReplaceTokens, tokens: project.properties.collectEntries { k, v -> [k, v ?: ''] })
     }
     into "$buildSources/client"
