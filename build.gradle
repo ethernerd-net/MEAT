@@ -38,6 +38,7 @@ task compileServer(type: Copy) {
         include '**/*.recipes'
         exclude '**/_CLIENT/**'
 		exclude '**/_TMP/**'
+        exclude '**/*.disabled'
 		exclude '**/saves/**'
 		exclude '**/minetweaker.log/**'
 		exclude '**/BotaniaVars.dat/**'
