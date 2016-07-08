@@ -1,83 +1,5 @@
 {
   "tools": {
-    "axe": {
-      "name": "Axe",
-      "icon": "minecraft:diamond_axe",
-      "toollist": [
-        "minecraft:diamond_axe",
-        "minecraft:golden_axe",
-        "minecraft:iron_axe",
-        "minecraft:stone_axe",
-        "minecraft:wooden_axe"
-      ],
-      "blocklist": [
-        "Forestry:leaves",
-        "Forestry:logs",
-        "Forestry:logsFireproof",
-        "TaintedMagic:WarpWood/0",
-        "Thaumcraft:blockMagicalLog",
-        "Thaumcraft:blockMagicalLog/0",
-        "Thaumcraft:blockMagicalLog/1",
-        "TwilightForest:tile.TFLeaves",
-        "TwilightForest:tile.TFLog",
-        "TwilightForest:tile.TFMagicLeaves",
-        "TwilightForest:tile.TFMagicLog",
-        "abyssalcraft:dltleaves/0",
-        "abyssalcraft:dltlog/0",
-        "abyssalcraft:dreadleaves/0",
-        "abyssalcraft:dreadlog/0",
-        "arsmagica2:WitchwoodLog/0",
-        "erebus:leavesAsper/0",
-        "erebus:leavesBaobab/0",
-        "erebus:leavesCypress/0",
-        "erebus:leavesEucalyptus/0",
-        "erebus:leavesMahogany/0",
-        "erebus:leavesMarshwood/0",
-        "erebus:leavesMossbark/0",
-        "erebus:leavesSap/0",
-        "erebus:logAsper/0",
-        "erebus:logBaobab/0",
-        "erebus:logCypress/0",
-        "erebus:logEucalyptus/0",
-        "erebus:logMahogany/0",
-        "erebus:logMarshwood/0",
-        "erebus:logMossbark/0",
-        "erebus:logRotten/0",
-        "erebus:logSap/0",
-        "erebus:log_scorched/0",
-        "erebus:saplessLog/0",
-        "evilcraft:undeadLog/0",
-        "harvestcraft:pamCinnamon/0",
-        "harvestcraft:pamMaple/0",
-        "harvestcraft:pamPaperbark/0",
-        "minecraft:fence",
-        "minecraft:leaves",
-        "minecraft:leaves2",
-        "minecraft:log",
-        "minecraft:log2",
-        "thaumicbases:genLogs",
-        "witchery:witchleaves",
-        "witchery:witchlog"
-      ]
-    },
-    "hoe": {
-      "name": "Hoe",
-      "icon": "minecraft:diamond_hoe",
-      "toollist": [
-        "minecraft:diamond_hoe",
-        "minecraft:golden_hoe",
-        "minecraft:iron_hoe",
-        "minecraft:stone_hoe",
-        "minecraft:wooden_hoe"
-      ],
-      "blocklist": [
-        "minecraft:carrots",
-        "minecraft:melon_block",
-        "minecraft:potatoes",
-        "minecraft:pumpkin",
-        "minecraft:wheat"
-      ]
-    },
     "pickaxe": {
       "name": "Pickaxe",
       "icon": "minecraft:diamond_pickaxe",
@@ -86,7 +8,45 @@
         "minecraft:golden_pickaxe",
         "minecraft:iron_pickaxe",
         "minecraft:stone_pickaxe",
-        "minecraft:wooden_pickaxe"
+        "minecraft:wooden_pickaxe",
+		"AWWayofTime:boundPickaxe",
+		"BloodArsenal:blood_infused_pickaxe_wood",
+		"BloodArsenal:blood_infused_pickaxe_iron",
+		"BloodArsenal:blood_infused_pickaxe_diamond",
+		"Botania:manasteelPick",
+		"Botania:terraPick",
+		"Botania:elementiumPick",
+		"Botania:glassPick",
+		"ExtraUtilities:destructionpickaxe",
+		"ForbiddenMagic:TaintPickaxe",
+		"ForbiddenMagic:MorphPickaxe",
+		"Forestry:bronzePickaxe",
+		"HardcoreEnderExpansion:scorching_pickaxe",
+		"Railcraft:tool.steel.pickaxe",
+		"Sanguimancy:corruptedPickaxe",
+		"TaintedMagic:ShadowPick",
+		"Thaumcraft:ItemPickThaumium",
+		"Thaumcraft:ItemPickaxeElemental",
+		"Thaumcraft:ItemPickVoid",
+		"ThaumicTinker:ichorPick",
+		"ThaumicTinker:ichorPickGem",
+		"TwilightForest:item.ironwoodPick",
+		"TwilightForest:item.fieryPick",
+		"TwilightForest:item.steelleafPick",
+		"TwilightForest:item.mazebreakerPick",
+		"TwilightForest:item.knightlyPick",
+		"abyssalcraft:dpick",
+		"abyssalcraft:apick",
+		"abyssalcraft:corepick",
+		"abyssalcraft:dreadiumpickaxe",
+		"abyssalcraft:ethaxiumpickaxe",
+		"arsmagica2:BoundPickaxeNor",
+		"chocolateQuest:pickaxeMagic",
+		"erebus:pickaxeJade",
+		"evilcraft:vengeancePickaxe",
+		"runicdungeons:item.runicSteelPickaxe",
+		"ThaumicBases:thauminitePickaxe",
+		"witchery:kobolditepickaxe"
       ],
       "blocklist": [
         "Forestry:resources/0",
@@ -176,51 +136,6 @@
         "minecraft:obsidian",
         "minecraft:quartz_ore",
         "minecraft:redstone_ore"
-      ]
-    },
-    "shears": {
-      "name": "Shears",
-      "icon": "minecraft:shears",
-      "toollist": [
-        "minecraft:shears"
-      ],
-      "blocklist": [
-        "Forestry:leaves",
-        "TwilightForest:tile.TFLeaves",
-        "TwilightForest:tile.TFMagicLeaves",
-        "abyssalcraft:dltleaves/0",
-        "abyssalcraft:dreadleaves/0",
-        "erebus:leavesAsper/0",
-        "erebus:leavesBaobab/0",
-        "erebus:leavesCypress/0",
-        "erebus:leavesEucalyptus/0",
-        "erebus:leavesMahogany/0",
-        "erebus:leavesMarshwood/0",
-        "erebus:leavesMossbark/0",
-        "erebus:leavesSap/0",
-        "minecraft:deadbush",
-        "minecraft:leaves",
-        "minecraft:leaves2",
-        "minecraft:tallgrass",
-        "minecraft:vine",
-        "minecraft:web",
-        "minecraft:wool",
-        "witchery:witchleaves"
-      ]
-    },
-    "shovel": {
-      "name": "Shovel",
-      "icon": "minecraft:diamond_shovel",
-      "toollist": [
-        "minecraft:diamond_shovel",
-        "minecraft:golden_shovel",
-        "minecraft:iron_shovel",
-        "minecraft:stone_shovel",
-        "minecraft:wooden_shovel"
-      ],
-      "blocklist": [
-        "minecraft:clay",
-        "minecraft:gravel"
       ]
     }
   }
