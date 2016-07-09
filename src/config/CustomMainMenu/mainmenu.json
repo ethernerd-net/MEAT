@@ -117,7 +117,7 @@
 			"action" :
 			{
                 "type" : "openLink",
-				"link" : "https://git.nerdy-net.de/minecraft/ltm/blob/ae1f94580dd6c9191a0565d041dde0f08edc802d/CHANGELOG"
+				"link" : "https://git.nerdy-net.de/minecraft/ltm/blob/master/CHANGELOG"
             }	
         }
     },
