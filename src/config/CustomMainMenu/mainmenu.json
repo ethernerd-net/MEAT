@@ -3,11 +3,11 @@
     {
         "title":
         {
-            "image" : "custommainmenu:textures/gui/minecraft.png",
+            "image" : "custommainmenu:textures/gui/logo.png",
             "posX" : -128,
             "posY" : 50,
-            "width" : 256,
-            "height" : 256,
+            "width" : 237,
+            "height" : 84,
             "alignment" : "top_center"
         }
     },
@@ -46,7 +46,7 @@
         
         "mods":
         {
-            "text" : "fml.menu.mods",
+            "text" : "Mods",
 			"texture" : "custommainmenu:textures/gui/buttonRegular.png",
             "posX" : -100,
             "posY" : 96,
@@ -88,21 +88,6 @@
             }
         },
         
-        "language":
-        {
-            "text" : "",
-			"texture" : "custommainmenu:textures/gui/languages.png",
-            "posX" : -124,
-            "posY" : 132,
-            "width" : 20,
-            "height" : 20,
-			"action" :
-			{
-                "type" : "openGui",
-                "gui" : "languages"
-            }
-        },
-        
         "refresh":
         {
             "text" : "",
@@ -141,7 +126,7 @@
 			"action" :
 			{
                 "type" : "openLink",
-				"link" : "https://github.com/BBoldt/Unabridged/issues"
+				"link" : "https://git.nerdy-net.de/minecraft/ltm/issues"
             }
         },
 
@@ -149,23 +134,6 @@
         {
             "text" : "Changelog",
 			"texture" : "custommainmenu:textures/gui/buttonMedium.png",
-			"alignment" : "top_center",
-            "posX" : -50,
-            "posY" : 2,
-            "width" : 98,
-            "height" : 20,
-			"action" :
-			{
-                "type" : "openLink",
-				"link" : "http://www.atlauncher.com/pack/MinecraftUnabridged/"
-            }	
-        },
-
-		"Subreddit":
-        {
-            "text" : "Subreddit",
-			"texture" : "custommainmenu:textures/gui/buttonMedium.png",
-			"hoverText" : "Discussion",
 			"alignment" : "top_left",
             "posX" : 2,
             "posY" : 2,
@@ -174,7 +142,7 @@
 			"action" :
 			{
                 "type" : "openLink",
-				"link" : "http://www.reddit.com/r/MinecraftUnabridged/"
+				"link" : "https://git.nerdy-net.de/minecraft/ltm/blob/ae1f94580dd6c9191a0565d041dde0f08edc802d/CHANGELOG"
             }	
         }
     },
@@ -192,7 +160,7 @@
 		
         "example":
         {
-            "text" : "§bUNABRIDGED §e3.6_BETA ",
+            "text" : "MEAT 0.5b-HF",
             "posX" : 2,
             "posY" : -10,
             "color" : -1,
@@ -213,33 +181,7 @@
        
         "background":
         {
-            "image" : "",
-            "slideshow":
-            {
-                "images" : [
-					"custommainmenu:scrn/1.png",
-					"custommainmenu:scrn/2.png",
-					"custommainmenu:scrn/3.png",
-					"custommainmenu:scrn/4.png",
-					"custommainmenu:scrn/5.png",
-					"custommainmenu:scrn/6.png",
-					"custommainmenu:scrn/7.png",
-					"custommainmenu:scrn/8.png",
-					"custommainmenu:scrn/9.png",
-					"custommainmenu:scrn/10.png",
-					"custommainmenu:scrn/11.png",
-					"custommainmenu:scrn/12.png",
-					"custommainmenu:scrn/13.png",
-					"custommainmenu:scrn/14.png",
-					"custommainmenu:scrn/15.png",
-					"custommainmenu:scrn/16.png",
-					"custommainmenu:scrn/17.png",
-					"custommainmenu:scrn/18.png"
-							],
-				"displayDuration" : 100,
-				"fadeDuration" : 40,
-				"shuffle" : true
-            }
+            "image" : "custommainmenu:textures/gui/pig3.png"
         }
 	}
 }
