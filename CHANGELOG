@@ -1,1 +1,10 @@
-* thought DummyCore1.13.jar is the core mod for mmmmmmm... fucking CrashtestDummies!
+NerdyCraft: MEaT v0.6b (2016-06-09)
+
+* Added InGameInfoXML for some neat info
+* Added CustomMainMenu and a CustomMainMenu
+* Removed CrashTestDummies: Sorry they are neat but kinda useless imho
+* Removed PerfectSpawn, why did i add it in the firstplace?!?!
+* Removed SpecialAI for now (caused some issues on our testserver! -hopefully back soon!!)
+* Added INpureCore for more Facade and Microblock cleanup
+* Added Pick IDs for veinminer
+* Updated mods: veinminer, gadomancy, ultimate unicorn mods
