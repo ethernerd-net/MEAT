@@ -66,13 +66,17 @@ Exploration
     - `The Twilight Forest <http://minecraft.curseforge.com/projects/the-twilight-forest>`_, Benimatic
     - `Weather2 <http://minecraft.curseforge.com/projects/weather-storms-tornadoes>`_, Corosus
     
-    - `BabyMobs <http://minecraft.curseforge.com/projects/baby-mobs>`_, Furgl
     - `Extra Golems <http://minecraft.curseforge.com/projects/extra-golems>`_, sky01
     - `Elemental Creepers <http://minecraft.curseforge.com/projects/elemental-creepers>`_, Lomeli12
     - `Ender Zoo <http://minecraft.curseforge.com/projects/ender-zoo>`_, CrazyPants_MC, tterrag1098
     - `Mutant Creatures <http://minecraft.curseforge.com/projects/mutant-creatures-mod>`_, thehippomaster21
     - `Special Mobs <http://minecraft.curseforge.com/projects/special-mobs>`_, docrobb
-    - `Spacial AI <http://minecraft.curseforge.com/projects/special-ai>`_, docrobb
+	
+    - `AgriCraft <http://minecraft.curseforge.com/projects/agricraft>`_, InfinityRaider
+    - `Cooking for Blockheads <http://minecraft.curseforge.com/projects/cooking-for-blockheads>`_, Blay09
+    - `Hunger Overhaul <http://minecraft.curseforge.com/projects/hunger-overhaul>`_, Iguanaman
+    - `Pam's Harvestcraft <http://minecraft.curseforge.com/projects/pams-harvestcraft>`_, MatrexsVigil
+    - `The Spice of Life <http://minecraft.curseforge.com/projects/the-spice-of-life>`_, squeek502
 
 
 Decoration
@@ -86,11 +90,6 @@ Decoration
 
 
 Utility
-    - `AgriCraft <http://minecraft.curseforge.com/projects/agricraft>`_, InfinityRaider
-    - `Cooking for Blockheads <http://minecraft.curseforge.com/projects/cooking-for-blockheads>`_, Blay09
-    - `Hunger Overhaul <http://minecraft.curseforge.com/projects/hunger-overhaul>`_, Iguanaman
-    - `Pam's Harvestcraft <http://minecraft.curseforge.com/projects/pams-harvestcraft>`_, MatrexsVigil
-    - `The Spice of Life <http://minecraft.curseforge.com/projects/the-spice-of-life>`_, squeek502
     
     - `Ender Storage <http://minecraft.curseforge.com/projects/ender-storage>`_, chicken_bones
     - `IronChests <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280827-1-5-and-up-forge-universal-ironchests-5-0>`_, cpw
@@ -111,12 +110,13 @@ Utility
     - `Potion Id Helper <http://minecraft.curseforge.com/projects/potion-id-helper>`_, brandon3055
     - `Just What I Needed <http://minecraft.curseforge.com/projects/just-what-i-needed-mod>`_, SSBlur
     - `Morpheus <http://minecraft.curseforge.com/projects/morpheus>`_, quetzi
-    - `Perfect Spawn <http://minecraft.curseforge.com/projects/perfect-spawn>`_, lumien231
     - `Random Things <http://minecraft.curseforge.com/projects/random-things>`_, lumien231
     - `VeinMiner <http://minecraft.curseforge.com/projects/veinminer>`_, Portablejim
     - `InventoryTweaks <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288184-inventory-tweaks-1-59-march-31>`_, Kobata
     
     - `Durability Show <http://minecraft.curseforge.com/projects/durability-show>`_, 61352151511
+	- `InGameInfoXML <http://minecraft.curseforge.com/projects/ingame-info-xml>`_, Lunatrius
+	- `CustomMainMenu <http://minecraft.curseforge.com/mc-mods/226406-custom-main-menu>`_, Lumien
     - `NotEnoughItems <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods>`_, Chickenbones
     - `NEI Addons <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289113-nei-addons-v1-12-2-now-supports-botany-flower>`_, bdew
     - `NEI Integration <http://minecraft.curseforge.com/projects/nei-integration>`_, tonius111
@@ -125,17 +125,7 @@ Utility
     - `WAILA Plugins <http://www.curse.com/mc-mods/minecraft/226119-waila-plugins>`_, tterrag1098
     - `Wawla <http://minecraft.curseforge.com/projects/wawla-what-are-we-looking-at>`_, darkh4x
     - `Mouse Tweaks <http://minecraft.curseforge.com/mc-mods/60089-mouse-tweaks>`_, YaLTeR
+	- `HQM <http://minecraft.curseforge.com/mc-mods/77027-hardcore-questing-mode>`_, lorddusk
     - `Guide-API <http://minecraft.curseforge.com/mc-mods/228832-guide-api>`_, TheNut
 
 if there is a mod missing or i missspelled something please let me know!
-
-Maybe Later
-
-- `HQM <http://minecraft.curseforge.com/mc-mods/77027-hardcore-questing-mode>`_, lorddusk
-- `MineTweaker <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290366-1-6-4-1-7-x-minetweaker-3-customize-your>`_, StanH
-- `ModTweaker <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2093121-1-7-x-modtweaker-0-5d-minetweaker-addon>`_, joshie
-- `MineTweaker RecipeMaker <http://minecraft.curseforge.com/mc-mods/226294-minetweaker-recipemaker>`_, DoubleDoorDevelopment, Claycorp, dries007
-- `Ztones <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2221070-ztones-v-2-2-1-decorative-blocks-16x>`_, riciJak
-- `CustomMainMenu <http://minecraft.curseforge.com/mc-mods/226406-custom-main-menu>`_, Lumien
-- `The Camping Mod <http://minecraft.curseforge.com/projects/the-camping-mod>`_, rikmuld
-- `Doomlike Dungeon <http://minecraft.curseforge.com/projects/project-74246>`_, BlackJar72
