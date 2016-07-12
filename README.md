@@ -1,6 +1,6 @@
-# Low Tech and Magic
+# Magic, Exploration and Tech
 
-LTM is just as the a kitchen sink modpack with tons of magic mods and a little bit of immersive/low tech mods and alot of exploration
+MEAT is just a kitchen sink modpack with tons of magic mods and a little bit of immersive/low tech mods and alot of exploration
 
 i will try to integrate HQM but i guess it will more be a guidline through the mods rather than real questing.
 
