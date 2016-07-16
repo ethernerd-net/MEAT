@@ -1,3 +1,7 @@
+
+Menu music by Kevin MacLeod. Available under the Creative Commons Attribution 3.0 Unported license: https://creativecommons.org/licenses/by/3.0/
+Download link: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500076
+
 ===========
 ModList
 ===========
