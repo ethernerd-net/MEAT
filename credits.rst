@@ -5,7 +5,6 @@ ModList
 Magic
     - `Ars Magica 2 <http://minecraft.curseforge.com/projects/ars-magica-2>`_, Torarion
     - `Blood Magic <https://github.com/WayofTime/BloodMagic>`_, WayofTime
-    - `Blood Arsenal <http://minecraft.curseforge.com/projects/blood-magic-addon-blood-arsenal>`_, Arcaratus
     - `Sanguimancy <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2194354-blood-magic-addon-sanguimancy>`_, Tombenpotter
     - `Botania <http://botaniamod.net/license.php>`_, vazkii- `Thaumcraft NEI Plugin <http://www.curse.com/mc-mods/minecraft/225095-thaumcraft-nei-plugin>`_, DjGiannuzz
     - `Thaumcraft <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292130-thaumcraft-4-2-3-5-updated-2015-2-17>`_, Azanor
