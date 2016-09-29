@@ -1,0 +1,7 @@
+buildServer:
+  stage: test
+  script: ./gradlew buildServer
+
+buildClient:
+  stage: test
+  script: ./gradlew buildClient
