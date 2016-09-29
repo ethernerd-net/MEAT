@@ -1,3 +1,5 @@
+image: nhelsherif/jdk-gradle:latest
+
 buildServer:
   stage: test
   script: ./gradlew buildServer
